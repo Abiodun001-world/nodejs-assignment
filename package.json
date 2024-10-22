@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-assignment",
+  "version": "1.0.0",
+  "description": "AltSchool Africa Backend Nodejs first Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon webServer.js",
+    "dev": "nodemon apiServer.js"
+  },
+  "keywords": [],
+  "author": "Abiodun Adekunle",
+  "license": "ISC"
+}
