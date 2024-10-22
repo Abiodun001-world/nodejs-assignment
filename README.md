@@ -28,7 +28,7 @@ Add another feature such that when I navigate to “{random}.html” it should r
 
 ## Running the Project
 
-After cloning the repository, initialize the project with:
+After cloning the repository, make sure you have Nodejs installed on your local machine and initialize the project with:
 
 ```bash
 npm init
